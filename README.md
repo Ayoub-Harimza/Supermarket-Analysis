@@ -21,7 +21,8 @@ The data was visualized using Tableau. The interactive version of the dashboard 
 ![Image](https://github.com/Ayoub-Harimza/Supermarket-Analysis/blob/main/Supermarket%20analysis%20Dashboard.PNG)
 
 # Key Insights:
-1.**Payment Method Preferences and Branch Performance**:
+
+1. **Payment Method Preferences and Branch Performance**:
     - Cash transactions dominate in Branch C with 744 transactions, reflecting a preference for traditional payment methods.
     - eWallet transactions remain popular across all branches, indicating a growing trend towards digital payments.
 
