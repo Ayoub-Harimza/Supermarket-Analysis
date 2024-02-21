@@ -6,7 +6,7 @@ The goal of this analysis is to provide comprehensive insights into the operatio
 In this project, I manipulated the supermarket dataset using SQL Server Management Studio (SSMS)in order to derive actionable insights into customer behavior, sales patterns, and payment trends across different branches. Below are the key steps undertaken in this analysis:
 
 1. **Branch Sales Analysis**: [Link to Query on GitHub](https://github.com/Ayoub-Harimza/Supermarket-Analysis/blob/main/SQL%20Files/SQLQuery1.sql)
-   - Calculates total sales, average sales per day, and the number of unique customers for each branch.
+   - Calculates total sales, average sales per day, and the number of customers for each branch.
 
 2. **Branch Product Analysis**: [Link to Query on GitHub](https://github.com/Ayoub-Harimza/Supermarket-Analysis/blob/main/SQL%20Files/SQLQuery2.sql)
    - Analyzes product sales distribution across branches, computing total sales for each product line within each branch.
