@@ -15,3 +15,17 @@ In this project, I manipulated the supermarket dataset using SQL Server Manageme
    - Examines sales data by date and time across branches, providing insights into sales patterns throughout the day.
 
 Each query leverages SQL Server Management Studio (SSMS) to efficiently process the dataset and generate valuable insights for strategic decision-making within the supermarket chain.
+# Data Visualization with Tableau
+The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/app/profile/ayoub.harimza/viz/QatarRealEstateAnalysis2020-2023/Dashboard1)
+
+![Image](https://github.com/Ayoub-Harimza/Qatar-Real-Estate-Analysis/blob/main/Tableau%20Visualization/Real%20Estate%20Dashboard.PNG)
+
+# Key Insights:
+
+
+## Contact
+
+Feel free to reach out if you have any questions or would like to discuss this project further:
+
+- **Email:** Ayoubharimza21@gmail.com
+- **LinkedIn:** [Ayoub Harimza](https://www.linkedin.com/in/ayoub-harimza-4926a22a7/)
