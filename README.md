@@ -27,7 +27,7 @@ The data was visualized using Tableau. The interactive version of the dashboard 
     - eWallet transactions remain popular across all branches, indicating a growing trend towards digital payments.
 
 2. **Product Line Distribution and Revenue Generation**:
-   - - Branch C dominates purchases of Electronic accessories, Fashion accessories, and Food and beverages, aligning with its higher total revenue compared to other branches. This indicates a strong correlation between product line distribution and revenue generation within each branch. Additionally, Food and beverages emerge as the highest revenue-generating product line across all branches, reflecting broader consumer preferences.
+    - Branch C dominates purchases of Electronic accessories, Fashion accessories, and Food and beverages, aligning with its higher total revenue compared to other branches. This indicates a strong correlation between product line distribution and revenue generation within each branch. Additionally, Food and beverages emerge as the highest revenue-generating product line across all branches, reflecting broader consumer preferences.
 
 3. **Hourly Sales Distribution by Weekday (Heatmap)**:
    - Weekdays exhibit peak sales during midday (12 PM to 2 PM) and early evening (5 PM to 7 PM), with variations across different weekdays.
