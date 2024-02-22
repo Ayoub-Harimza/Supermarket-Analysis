@@ -29,7 +29,7 @@ The data was visualized using Tableau. The interactive version of the dashboard 
 2. **Product Line Distribution and Revenue Generation**:
     - Branch C dominates purchases of Electronic accessories, Fashion accessories, and Food and beverages, aligning with its higher total revenue compared to other branches. This indicates a strong correlation between product line distribution and revenue generation within each branch. Additionally, Food and beverages emerge as the highest revenue-generating product line across all branches, reflecting broader consumer preferences.
 
-3. **Hourly Sales Distribution by Weekday (Heatmap)**:
+3. **Hourly Sales Distribution by Weekday**:
    - Weekdays exhibit peak sales during midday (12 PM to 2 PM) and early evening (5 PM to 7 PM), with variations across different weekdays.
    - Saturdays show distinct peaks in sales, especially during the late morning to early afternoon hours (10 AM to 2 PM), indicating higher foot traffic or weekend shopping patterns  That suggest different shopping behaviors and preferences throughout the week, which can inform staffing and promotional strategies or staffing adjustments to maximize sales potential.  
 
